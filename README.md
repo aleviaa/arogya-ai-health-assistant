@@ -1,16 +1,46 @@
-# React + Vite
+# Arogya – AI Health Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Overview
+Arogya is an AI-powered health assistant that helps users understand possible health concerns by analyzing their symptoms through a conversational chat interface. It provides structured, easy-to-read responses while encouraging users to consult medical professionals when needed.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 2. Problem Statement
+Many people experience health-related anxiety or confusion when symptoms appear and lack immediate access to reliable medical guidance. Existing solutions are often either too technical or unavailable at the moment of need.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 3. Solution
+Arogya addresses this problem by offering an AI-driven chat interface where users can describe their symptoms in natural language and receive clear, structured, and informative responses powered by a large language model.
+
+
+
+## 4. Features
+- AI-based symptom analysis  
+- Interactive chat interface  
+- Context-aware follow-up responses  
+- Clean and responsive UI with pdf download option  
+- Secure API usage with environment variables  
+
+
+
+## 5. Learnings (Problems Faced & What I Learned)
+- Faced issues with backend–frontend communication and API errors  
+- Learned proper environment variable handling and debugging server errors  
+- Improved understanding of REST APIs and async request handling  
+- Gained hands-on experience integrating LLM APIs into a real application  
+- Learned how to structure and deploy a full-stack project  
+
+
+
+## 6. Screenshots
+screenshots added
+
+
+## 7. Check It Now
+🔗 **GitHub Repository:**  
+https://github.com/aleviaa/arogya-ai-health-assistant
+
+>  Disclaimer: This project is for educational purposes only and does not replace professional medical advice.
+
+
